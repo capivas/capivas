@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="center">
-      🌱 I’m currently learning **.NET** and also interested in **Web Development**.
+      🌱 I’m currently learning <b>.NET</b> and also interested in <b>Web Development</b>.
       🎯 My goal is to continuously expand my knowledge and skills; I'm passionate about using what I learn to make a positive impact and help others.
       👯 I love to learn and collaborate, so feel free to reach out; let's connect, learn together, and build something!
   </tr>
